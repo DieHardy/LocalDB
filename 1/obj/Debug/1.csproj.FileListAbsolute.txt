@@ -1,0 +1,11 @@
+C:\Important\Programming\Projects\SQL + WF\1\1\bin\Debug\1.exe.config
+C:\Important\Programming\Projects\SQL + WF\1\1\bin\Debug\1.exe
+C:\Important\Programming\Projects\SQL + WF\1\1\bin\Debug\1.pdb
+C:\Important\Programming\Projects\SQL + WF\1\1\obj\Debug\1.csproj.AssemblyReference.cache
+C:\Important\Programming\Projects\SQL + WF\1\1\obj\Debug\1.csproj.SuggestedBindingRedirects.cache
+C:\Important\Programming\Projects\SQL + WF\1\1\obj\Debug\_1.Form1.resources
+C:\Important\Programming\Projects\SQL + WF\1\1\obj\Debug\_1.Properties.Resources.resources
+C:\Important\Programming\Projects\SQL + WF\1\1\obj\Debug\1.csproj.GenerateResource.cache
+C:\Important\Programming\Projects\SQL + WF\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Important\Programming\Projects\SQL + WF\1\1\obj\Debug\1.exe
+C:\Important\Programming\Projects\SQL + WF\1\1\obj\Debug\1.pdb
